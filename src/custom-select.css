@@ -1,0 +1,18 @@
+.custom-option {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 8px;
+  }
+  
+  .option-icon {
+    background-color: #1890ff;
+    color: white;
+    border-radius: 50%;
+    padding: 4px 8px;
+    font-weight: bold;
+    margin-right: 8px;
+    display: inline-block;
+    text-align: center;
+  }
+  
